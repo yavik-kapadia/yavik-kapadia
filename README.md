@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Yavik. I enjoy coding in Python and Java.
 <!--
 **yavik-kapadia/yavik-kapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
