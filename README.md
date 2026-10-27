@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-I'm Yavik. I enjoy coding in Python and Java.
-<!--
-**yavik-kapadia/yavik-kapadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yavik, a developer in San Jose, CA. These days I mostly build live video and streaming tools: SRT relays and routers, NDI, FFmpeg and OBS pipelines.
 
-Here are some ideas to get you started:
+**What I'm working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**bastion**](https://github.com/yavik-kapadia/bastion): SRT relay server with web dashboard, per-stream encryption, real-time metrics, and access control (Go)
+- [**bastion-router**](https://github.com/yavik-kapadia/bastion-router): SRT stream routing matrix that sends any input to any output with seamless switching (Go)
+- [**HTML2NDI**](https://github.com/yavik-kapadia/HTML2NDI): headless macOS browser that converts HTML into NDI feeds (C++)
+
+**Tools I use:** Go · C++ · Swift · TypeScript · Python · Java
+
+📝 [blog.yavik.dev](https://blog.yavik.dev)
