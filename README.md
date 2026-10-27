@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yavik, a developer in San Jose, CA. These days I mostly build live video and streaming tools: SRT relays and routers, NDI, FFmpeg and OBS pipelines.
+I'm Yavik, a developer in San Jose, CA. These days I mostly build live video and streaming tools: SRT relays and routers, NDI, and FFMPEG.
 
 **What I'm working on**
 
